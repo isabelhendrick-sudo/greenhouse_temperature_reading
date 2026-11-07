@@ -124,6 +124,4 @@ For notebook use, install JupyterLab separately (`python -m pip install jupyterl
 
 ## Data and reuse
 
-The inputs are the strawberry archives in the local validation dataset named `104.식물 병 유발 통합 데이터`. This repository includes the supplied figure and derived summaries; it does not bundle the raw JSON labels, sensor files or plant photographs. The data-provider link, authoritative condition-code definitions and applicable reuse terms were not supplied. No code or data licence is assigned by this package.
-
-The presentation follows the figure-first, findings-and-reproduction structure of [Weather Visualisation](https://github.com/isabelhendrick-sudo/Weather_visualisation).
+The inputs are the strawberry archives in the local validation dataset named `104.식물 병 유발 통합 데이터`. 
